@@ -1,4 +1,4 @@
-# Advent-of-Code-2019-day-1
+# Advent-of-Code-2019-day-1-part-1
 
 ## Part 1
 
