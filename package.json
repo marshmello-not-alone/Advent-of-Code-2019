@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "git@github.com:jqiallnatural/Advent-of-Code-2019-day-1.git",
+  "license": "MIT",
+  "author": "Jiaqi Zhao <jiaqi.zhao.tr@gmail.com>",
+  "scripts": {
+    "test": "mocha -r esm '*.test.js' --watch"
+  },
+  "prettier": {
+    "semi": false,
+    "trailingComma": "all",
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "mocha": "^6.2.2",
+    "prettier": "^1.19.1"
+  }
+}
